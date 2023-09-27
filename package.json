@@ -14,5 +14,11 @@
   "scripts": {
     "dev": "node index.js",
     "build": "webpack"
-  }
+  },
+  "name": "celo-boilerplate-web-dapp",
+  "description": "```",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
